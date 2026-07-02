@@ -35,6 +35,15 @@
 
 ---
 
+### Featured Projects
+
+| Project | Description | Link |
+|---------|------------|------|
+| 🩺 **Kliniu** | Plataforma de gestión clínica/salud | [GitHub](https://github.com/kliniucolombia-dotcom/Kliniu) |
+| 🎓 **4uStudio Academy** | Academia online | [Sitio web](https://4ustudioacademy.com/) |
+
+---
+
 ### GitHub Analytics
 
 <p align="center">
