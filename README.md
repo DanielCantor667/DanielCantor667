@@ -8,15 +8,21 @@
                                         
 ```
 
-### Daniel Cantor
+### Hi there 👋
 
-**Software Engineer** · Building things that matter.
+- 🚀 Trabajo como **Desarrollador de Software** en **Li Colombia Group S.A.S**
+- 💻 Construyo aplicaciones web y móviles con **React**, **React Native** y **TypeScript**
+- 🗄️ Uso **Supabase** para backend/base de datos y **Vercel** para deploy
+- 🎨 Estilo mis interfaces con **Tailwind CSS**
+- 🌱 Aprendiendo constantemente nuevas tecnologías y mejorando patrones de diseño
 
----
+🚀 Algunos de mis proyectos principales:
 
-**`console.log("Hello, world! 👋")`**
+- 🔐 **command-center** — Framework de portfolio inspirado en un sistema operativo
+- 🔑 **boveda-password-manager** — Gestor de contraseñas
 
-Soy desarrollador de software apasionado por crear aplicaciones web y móviles funcionales, limpias y bien estructuradas. Me gusta aprender tecnologías nuevas, resolver problemas reales y compartir lo que voy descubriendo.
+📍 Nacido en Bogotá D.C., Colombia 🇨🇴
+📍 Viviendo en Bogotá D.C., Colombia 🇨🇴
 
 ---
 
