@@ -39,7 +39,7 @@
 
 | Project | Description | Link |
 |---------|------------|------|
-| 🩺 **Kliniu** | Plataforma de gestión clínica/salud | [GitHub](https://github.com/kliniucolombia-dotcom/Kliniu) |
+| 🩺 **Kliniu** | Plataforma de gestión de dispensadores | [Demo](https://kliniu.vercel.app/) · [GitHub](https://github.com/kliniucolombia-dotcom/Kliniu) |
 | 🎓 **4uStudio Academy** | Academia online | [Sitio web](https://4ustudioacademy.com/) |
 
 ---
