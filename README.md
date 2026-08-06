@@ -11,10 +11,17 @@
 - 🔐 **command-center** — Framework de portfolio inspirado en un sistema operativo
 - 🔑 **boveda-password-manager** — Gestor de contraseñas
 - 🩺 **[Kliniu](https://kliniu.vercel.app/)** — Distribuidores de dispensadores
+- 🛍️ **[L'Origine](https://www.lorigine.com.co/)** — E-commerce de marca
 - 🎓 **[4uStudio Academy](https://4ustudioacademy.com/)** — Academia online
 
 📍 Nacido en Bogotá D.C., Colombia 🇨🇴
 📍 Viviendo en Bogotá D.C., Colombia 🇨🇴
+
+<p>
+  <a href="https://www.linkedin.com/in/danielcantorayala/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
@@ -42,6 +49,7 @@
 | Project | Description | Link |
 |---------|------------|------|
 | 🩺 **Kliniu** | Distribuidores de dispensadores | [Demo](https://kliniu.vercel.app/) · [GitHub](https://github.com/kliniucolombia-dotcom/Kliniu) |
+| 🛍️ **L'Origine** | E-commerce de marca | [Sitio web](https://www.lorigine.com.co/) |
 | 🎓 **4uStudio Academy** | Academia online | [Sitio web](https://4ustudioacademy.com/) |
 
 ---
