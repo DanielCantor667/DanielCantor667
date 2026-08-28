@@ -10,7 +10,7 @@
 
 - 🔐 **command-center** — Framework de portfolio inspirado en un sistema operativo
 - 🔑 **boveda-password-manager** — Gestor de contraseñas
-- 🩺 **[Kliniu](https://kliniu.vercel.app/)** — Distribuidores de dispensadores
+- 🩺 **[Kliniu](https://kliniucolombia.com/)** — E-commerce B2B + ERP/RRHH
 - 🛍️ **[L'Origine](https://www.lorigine.com.co/)** — E-commerce de marca
 - 🎓 **[4uStudio Academy](https://4ustudioacademy.com/)** — Academia online
 
@@ -48,7 +48,7 @@
 
 | Project | Description | Link |
 |---------|------------|------|
-| 🩺 **Kliniu** | Distribuidores de dispensadores | [Demo](https://kliniu.vercel.app/) · [GitHub](https://github.com/kliniucolombia-dotcom/Kliniu) |
+| 🩺 **Kliniu** | E-commerce B2B + ERP/RRHH | [kliniucolombia.com](https://kliniucolombia.com/) · [drokex.com](https://drokex.com/) · [GitHub](https://github.com/kliniucolombia-dotcom/Kliniu) |
 | 🛍️ **L'Origine** | E-commerce de marca | [Sitio web](https://www.lorigine.com.co/) |
 | 🎓 **4uStudio Academy** | Academia online | [Sitio web](https://4ustudioacademy.com/) |
 
