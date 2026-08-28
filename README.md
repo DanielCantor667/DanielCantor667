@@ -11,6 +11,7 @@
 - 🔐 **command-center** — Framework de portfolio inspirado en un sistema operativo
 - 🔑 **boveda-password-manager** — Gestor de contraseñas
 - 🩺 **[Kliniu](https://kliniucolombia.com/)** — E-commerce B2B + ERP/RRHH
+- 🔌 **[Drokex](https://drokex.com/)** — Marketplace de cables y componentes eléctricos
 - 🛍️ **[L'Origine](https://www.lorigine.com.co/)** — E-commerce de marca
 - 🎓 **[4uStudio Academy](https://4ustudioacademy.com/)** — Academia online
 
@@ -48,7 +49,8 @@
 
 | Project | Description | Link |
 |---------|------------|------|
-| 🩺 **Kliniu** | E-commerce B2B + ERP/RRHH | [kliniucolombia.com](https://kliniucolombia.com/) · [drokex.com](https://drokex.com/) · [GitHub](https://github.com/kliniucolombia-dotcom/Kliniu) |
+| 🩺 **Kliniu** | E-commerce B2B + ERP/RRHH | [kliniucolombia.com](https://kliniucolombia.com/) · [GitHub](https://github.com/kliniucolombia-dotcom/Kliniu) |
+| 🔌 **Drokex** | Marketplace de cables y componentes eléctricos | [drokex.com](https://drokex.com/) |
 | 🛍️ **L'Origine** | E-commerce de marca | [Sitio web](https://www.lorigine.com.co/) |
 | 🎓 **4uStudio Academy** | Academia online | [Sitio web](https://4ustudioacademy.com/) |
 
